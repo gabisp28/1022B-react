@@ -1,0 +1,12 @@
+.header{
+    height: 30rem;
+    border: 2px solid yellow;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    border: 0.2rem solid red;
+    margin-left: 3rem;
+    width: 20rem;
+    height: 20rem;
+}
